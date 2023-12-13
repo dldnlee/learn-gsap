@@ -1,0 +1,19 @@
+.container {
+  height: 10000px;
+}
+
+.box {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: black;
+  border-radius: 10px;
+  width: 100px;
+  height: 100px;
+  background: cyan;
+}
+
+.green {
+  top: 900px;
+}
